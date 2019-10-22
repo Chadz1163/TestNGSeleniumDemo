@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!--分组测试-->
+<!--<suite name="TestAll">
+
+    <test name="final">
+        <classes>
+            <class name="TestNG.TestGroup" />
+            <class name="TestNG.TestSelenium" />
+        </classes>
+    </test>
+
+    &lt;!&ndash; Run test method on group "selenium" only &ndash;&gt;
+    <test name="selenium">
+
+        <groups>
+            <run>
+                <include name="selenium-test" />
+            </run>
+        </groups>
+
+        <classes>
+            <class name="TestNG.TestSelenium" />
+            <class name="TestNG.TestGroup" />
+        </classes>
+
+    </test>
+
+</suite>-->
+
+<!--参数化测试-->
+<suite name="test-parameter" >
+
+<test name="example1">
+
+    <parameter name="username" value="zsd" />
+    <parameter name="password" value="123456" />
+
+    <classes>
+        <class name="TestNG.TestParameter" />
+    </classes>
+
+</test>
+
+</suite>
+
+
