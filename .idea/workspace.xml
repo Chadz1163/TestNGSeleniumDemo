@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9ce9e306-f68f-4051-aa39-306c5615773f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UITest/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UITest/utils/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UITest/base/SelectDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UITest/base/SelectDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UITest/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UITest/utils/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,11 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="104" column="48" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
+            <state relative-caret-position="326">
+              <caret line="90" column="62" selection-start-line="90" selection-start-column="62" selection-end-line="90" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -155,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/UITest/utils/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="308">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -214,11 +212,11 @@
         <option value="$PROJECT_DIR$/src/test/java/TestNG/ThreadedByXml.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Selenium/SeleniumElement.java" />
         <option value="$PROJECT_DIR$/src/test/java/Selenium/SpecialElement.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testNG.xml" />
         <option value="$PROJECT_DIR$/src/test/java/UITest/business/LoginPro.java" />
         <option value="$PROJECT_DIR$/src/test/java/UITest/handle/LoginHandle.java" />
         <option value="$PROJECT_DIR$/src/test/java/UITest/utils/Constants.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -310,7 +308,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571748082847" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571748867538" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -470,7 +468,7 @@
       <workItem from="1570532327183" duration="999000" />
       <workItem from="1571110256768" duration="27000" />
       <workItem from="1571724020781" duration="7756000" />
-      <workItem from="1571745315393" duration="1699000" />
+      <workItem from="1571745315393" duration="2307000" />
     </task>
     <servers />
   </component>
@@ -507,7 +505,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57213000" />
+    <option name="totallyTimeSpent" value="57821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -522,14 +520,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37470725" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37470725" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286495" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286495" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -836,13 +834,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="104" column="48" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/service/DriverService.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -852,8 +843,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/UITest/utils/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="308">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="90" column="62" selection-start-line="90" selection-start-column="62" selection-end-line="90" selection-end-column="62" />
         </state>
       </provider>
     </entry>
