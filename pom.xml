@@ -6,7 +6,7 @@
 
     <groupId>com.ruisdata</groupId>
     <artifactId>TestNGSeleniumDemo</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <org.seleniumhq.selenium.version>3.141.59</org.seleniumhq.selenium.version>
