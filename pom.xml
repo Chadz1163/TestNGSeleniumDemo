@@ -10,7 +10,7 @@
 
     <properties>
         <org.seleniumhq.selenium.version>3.141.59</org.seleniumhq.selenium.version>
-        <org.apache.poi.version>3.17</org.apache.poi.version>
+        <org.apache.poi.version>5.2.1</org.apache.poi.version>
         <org.testng.version>6.14.3</org.testng.version>
     </properties>
 
